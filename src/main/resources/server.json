@@ -1,0 +1,398 @@
+[
+    {
+      "tomcat_name": "educationalcenter",
+      "tomcat_port": "8480",
+      "export_port": "8484",
+      "ip":"172.31.4.1"
+    },
+    {
+      "tomcat_name": "floworder",
+      "tomcat_port": "8520",
+      "export_port": "8524",
+      "ip":"172.31.4.1"
+    },
+    {
+      "tomcat_name": "intellectcallcenter",
+      "tomcat_port": "8110",
+      "export_port": "8114",
+      "ip":"172.31.4.1"
+    },
+    {
+      "tomcat_name": "livecenter",
+      "tomcat_port": "8510",
+      "export_port": "8514",
+      "ip":"172.31.4.1"
+    },
+    {
+      "tomcat_name": "logisticscenter",
+      "tomcat_port": "8410",
+      "export_port": "8414",
+      "ip":"172.31.4.1"
+    },
+    {
+      "tomcat_name": "storagecenter",
+      "tomcat_port": "8470",
+      "export_port": "8474",
+      "ip":"172.31.4.1"
+    },
+    {
+      "tomcat_name": "studentservice",
+      "tomcat_port": "8370",
+      "export_port": "8374",
+      "ip":"172.31.4.1"
+    },
+    {
+      "tomcat_name": "educationalcenter",
+      "tomcat_port": "8480",
+      "export_port": "8484",
+      "ip":"172.31.4.2"
+    },
+    {
+      "tomcat_name": "floworder",
+      "tomcat_port": "8520",
+      "export_port": "8524",
+      "ip":"172.31.4.2"
+    },
+    {
+      "tomcat_name": "intellectcallcenter",
+      "tomcat_port": "8110",
+      "export_port": "8114",
+      "ip":"172.31.4.2"
+    },
+    {
+      "tomcat_name": "livecenter",
+      "tomcat_port": "8510",
+      "export_port": "8514",
+      "ip":"172.31.4.2"
+    },
+    {
+      "tomcat_name": "logisticscenter",
+      "tomcat_port": "8410",
+      "export_port": "8414",
+      "ip":"172.31.4.2"
+    },
+    {
+      "tomcat_name": "storagecenter",
+      "tomcat_port": "8470",
+      "export_port": "8474",
+      "ip":"172.31.4.2"
+    },
+    {
+      "tomcat_name": "studentservice",
+      "tomcat_port": "8370",
+      "export_port": "8374",
+      "ip":"172.31.4.2"
+    },
+    {
+      "tomcat_name": "activitycenter",
+      "tomcat_port": "8330",
+      "export_port": "8334",
+      "ip":"172.31.3.83"
+    },
+    {
+      "tomcat_name": "basedata",
+      "tomcat_port": "8300",
+      "export_port": "8304",
+      "ip":"172.31.3.83"
+    },
+    {
+      "tomcat_name": "extensionsystem",
+      "tomcat_port": "8350",
+      "export_port": "8354",
+      "ip":"172.31.3.83"
+    },
+    {
+      "tomcat_name": "externaldata",
+      "tomcat_port": "8100",
+      "export_port": "8104",
+      "ip":"172.31.3.83"
+    },
+    {
+      "tomcat_name": "fundsystem",
+      "tomcat_port": "8070",
+      "export_port": "8074",
+      "ip":"172.31.3.83"
+    },
+    {
+      "tomcat_name": "logcenter",
+      "tomcat_port": "8140",
+      "export_port": "8144",
+      "ip":"172.31.3.83"
+    },
+    {
+      "tomcat_name": "messagecenter",
+      "tomcat_port": "8090",
+      "export_port": "8094",
+      "ip":"172.31.3.83"
+    },
+    {
+      "tomcat_name": "paycenter",
+      "tomcat_port": "8120",
+      "export_port": "8124",
+      "ip":"172.31.3.83"
+    },
+    {
+      "tomcat_name": "sitecms",
+      "tomcat_port": "8040",
+      "export_port": "8044",
+      "ip":"172.31.3.83"
+    },
+    {
+      "tomcat_name": "siteleague",
+      "tomcat_port": "8320",
+      "export_port": "8324",
+      "ip":"172.31.3.83"
+    },
+    {
+      "tomcat_name": "thirdpartyadapter",
+      "tomcat_port": "8080",
+      "export_port": "8084",
+      "ip":"172.31.3.83"
+    },
+    {
+      "tomcat_name": "usercenter",
+      "tomcat_port": "8000",
+      "export_port": "4",
+      "ip":"172.31.3.83"
+    },
+    {
+      "tomcat_name": "activitycenter",
+      "tomcat_port": "8330",
+      "export_port": "8334",
+      "ip":"172.31.3.124"
+    },
+    {
+      "tomcat_name": "basedata",
+      "tomcat_port": "8300",
+      "export_port": "8304",
+      "ip":"172.31.3.124"
+    },
+    {
+      "tomcat_name": "extensionsystem",
+      "tomcat_port": "8350",
+      "export_port": "8354",
+      "ip":"172.31.3.124"
+    },
+    {
+      "tomcat_name": "externaldata",
+      "tomcat_port": "8100",
+      "export_port": "8104",
+      "ip":"172.31.3.124"
+    },
+    {
+      "tomcat_name": "fundsystem",
+      "tomcat_port": "8070",
+      "export_port": "8074",
+      "ip":"172.31.3.124"
+    },
+    {
+      "tomcat_name": "logcenter",
+      "tomcat_port": "8140",
+      "export_port": "8144",
+      "ip":"172.31.3.124"
+    },
+    {
+      "tomcat_name": "messagecenter",
+      "tomcat_port": "8090",
+      "export_port": "8094",
+      "ip":"172.31.3.124"
+    },
+    {
+      "tomcat_name": "paycenter",
+      "tomcat_port": "8120",
+      "export_port": "8124",
+      "ip":"172.31.3.124"
+    },
+    {
+      "tomcat_name": "sitecms",
+      "tomcat_port": "8040",
+      "export_port": "8044",
+      "ip":"172.31.3.124"
+    },
+    {
+      "tomcat_name": "siteleague",
+      "tomcat_port": "8320",
+      "export_port": "8324",
+      "ip":"172.31.3.124"
+    },
+    {
+      "tomcat_name": "thirdpartyadapter",
+      "tomcat_port": "8080",
+      "export_port": "8084",
+      "ip":"172.31.3.124"
+    },
+    {
+      "tomcat_name": "usercenter",
+      "tomcat_port": "8000",
+      "export_port": "4",
+      "ip":"172.31.3.124"
+    },
+    {
+      "tomcat_name": "cardticket",
+      "tomcat_port": "8500",
+      "export_port": "8504",
+      "ip":"172.31.3.125"
+    },
+    {
+      "tomcat_name": "corpservice",
+      "tomcat_port": "8430",
+      "export_port": "8434",
+      "ip":"172.31.3.125"
+    },
+    {
+      "tomcat_name": "coursecenter",
+      "tomcat_port": "8340",
+      "export_port": "8344",
+      "ip":"172.31.3.125"
+    },
+    {
+      "tomcat_name": "goodscenter",
+      "tomcat_port": "8490",
+      "export_port": "8494",
+      "ip":"172.31.3.125"
+    },
+    {
+      "tomcat_name": "opensource",
+      "tomcat_port": "8390",
+      "export_port": "8394",
+      "ip":"172.31.3.125"
+    },
+    {
+      "tomcat_name": "questionbank",
+      "tomcat_port": "8310",
+      "export_port": "8314",
+      "ip":"172.31.3.125"
+    },
+    {
+      "tomcat_name": "talentbank",
+      "tomcat_port": "8440",
+      "export_port": "8444",
+      "ip":"172.31.3.125"
+    },
+    {
+      "tomcat_name": "cardticket",
+      "tomcat_port": "8500",
+      "export_port": "8504",
+      "ip":"172.31.3.122"
+    },
+    {
+      "tomcat_name": "corpservice",
+      "tomcat_port": "8430",
+      "export_port": "8434",
+      "ip":"172.31.3.122"
+    },
+    {
+      "tomcat_name": "coursecenter",
+      "tomcat_port": "8340",
+      "export_port": "8344",
+      "ip":"172.31.3.122"
+    },
+    {
+      "tomcat_name": "goodscenter",
+      "tomcat_port": "8490",
+      "export_port": "8494",
+      "ip":"172.31.3.122"
+    },
+    {
+      "tomcat_name": "opensource",
+      "tomcat_port": "8390",
+      "export_port": "8394",
+      "ip":"172.31.3.122"
+    },
+    {
+      "tomcat_name": "questionbank",
+      "tomcat_port": "8310",
+      "export_port": "8314",
+      "ip":"172.31.3.122"
+    },
+    {
+      "tomcat_name": "talentbank",
+      "tomcat_port": "8440",
+      "export_port": "8444",
+      "ip":"172.31.3.122"
+    },
+    {
+      "tomcat_name": "fileservice",
+      "tomcat_port": "8030",
+      "export_port": "8034",
+      "ip":"172.31.3.127"
+    },
+    {
+      "tomcat_name": "lightdfs",
+      "tomcat_port": "12910",
+      "export_port": "12914",
+      "ip":"172.31.3.127"
+    },
+    {
+      "tomcat_name": "lightserver",
+      "tomcat_port": "12920",
+      "export_port": "12924",
+      "ip":"172.31.3.127"
+    },
+    {
+      "tomcat_name": "fileservice",
+      "tomcat_port": "8030",
+      "export_port": "8034",
+      "ip":"172.31.3.174"
+    },
+    {
+      "tomcat_name": "lightdfs",
+      "tomcat_port": "12910",
+      "export_port": "12914",
+      "ip":"172.31.3.174"
+    },
+    {
+      "tomcat_name": "lightserver",
+      "tomcat_port": "12920",
+      "export_port": "12924",
+      "ip":"172.31.3.174"
+    },
+    {
+      "tomcat_name": "midservice-msa",
+      "tomcat_port": "7010",
+      "export_port": "7014",
+      "ip":"172.31.3.85"
+    },
+    {
+      "tomcat_name": "midservice-msu",
+      "tomcat_port": "7000",
+      "export_port": "7004",
+      "ip":"172.31.3.84"
+    },
+    {
+      "tomcat_name": "midservice-mso",
+      "tomcat_port": "7020",
+      "export_port": "7024",
+      "ip":"172.31.3.196"
+    },
+    {
+      "tomcat_name": "midservice-msc",
+      "tomcat_port": "7030",
+      "export_port": "7034",
+      "ip":"172.31.3.212"
+    },
+    {
+      "tomcat_name": "midservice-msa",
+      "tomcat_port": "7010",
+      "export_port": "7014",
+      "ip":"172.31.3.130"
+    },
+    {
+      "tomcat_name": "midservice-msu",
+      "tomcat_port": "7000",
+      "export_port": "7004",
+      "ip":"172.31.3.129"
+    },
+    {
+      "tomcat_name": "midservice-mso",
+      "tomcat_port": "7020",
+      "export_port": "7024",
+      "ip":"172.31.3.197"
+    },
+    {
+      "tomcat_name": "midservice-msc",
+      "tomcat_port": "7030",
+      "export_port": "7034",
+      "ip":"172.31.3.213"
+    }
+]
